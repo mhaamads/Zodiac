@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+	@font-face {
+font-family: 'zodiac';
+font-style: normal;
+font-weight: normal;
+src: local('zodiac'), url('zodiac.woff') format('woff');
+}
+
+.logo{
+font-family: 'zodiac';
+font-size: 100px;
+margin: -10px;
+cursor: pointer;
+}
+.application{
+overflow: hidden;
+}
+.footer{
+	position:fixed;
+	left:0px;
+	bottom:0px;
+	height:30px;
+	padding: 5px 0px 20px 0px;
+	width:100%;
+    background-color:rgba(53, 126, 221, 0.9);
+	font-family: 'Patrick Hand', cursive;
+	font-size: 20px;
+	user-select: none;
+}

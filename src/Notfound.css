@@ -1,0 +1,11 @@
+.notfoundtxt{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20%;
+    font-size: 48px;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.5);;
+    }
+    

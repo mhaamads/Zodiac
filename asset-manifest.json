@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Zodiac/static/css/main.26302377.chunk.css",
+    "main.js": "/Zodiac/static/js/main.ef4cd47a.chunk.js",
+    "main.js.map": "/Zodiac/static/js/main.ef4cd47a.chunk.js.map",
+    "runtime-main.js": "/Zodiac/static/js/runtime-main.658e7118.js",
+    "runtime-main.js.map": "/Zodiac/static/js/runtime-main.658e7118.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Zodiac/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.41038122.chunk.js": "/Zodiac/static/js/2.41038122.chunk.js",
+    "static/js/2.41038122.chunk.js.map": "/Zodiac/static/js/2.41038122.chunk.js.map",
+    "index.html": "/Zodiac/index.html",
+    "precache-manifest.8f9e8d3e183c8ed977c07bf9d1d426f0.js": "/Zodiac/precache-manifest.8f9e8d3e183c8ed977c07bf9d1d426f0.js",
+    "service-worker.js": "/Zodiac/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Zodiac/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.26302377.chunk.css.map": "/Zodiac/static/css/main.26302377.chunk.css.map",
+    "static/js/2.41038122.chunk.js.LICENSE.txt": "/Zodiac/static/js/2.41038122.chunk.js.LICENSE.txt",
+    "static/media/aquarius.png": "/Zodiac/static/media/aquarius.a0756104.png",
+    "static/media/aries.png": "/Zodiac/static/media/aries.0e63155c.png",
+    "static/media/index.css": "/Zodiac/static/media/bg.ebaa3be8.jpg",
+    "static/media/cancer.png": "/Zodiac/static/media/cancer.3ae4c2c0.png",
+    "static/media/capricorn.png": "/Zodiac/static/media/capricorn.cf50972a.png",
+    "static/media/gemini.png": "/Zodiac/static/media/gemini.7fd8ff29.png",
+    "static/media/leo.png": "/Zodiac/static/media/leo.76fa1d47.png",
+    "static/media/libra.png": "/Zodiac/static/media/libra.b1cd67c1.png",
+    "static/media/logo.png": "/Zodiac/static/media/logo.60ab58e6.png",
+    "static/media/pisces.png": "/Zodiac/static/media/pisces.1d6912d6.png",
+    "static/media/sagittarius.png": "/Zodiac/static/media/sagittarius.551a0221.png",
+    "static/media/scorpio.png": "/Zodiac/static/media/scorpio.33c2ecd8.png",
+    "static/media/taurus.png": "/Zodiac/static/media/taurus.e7f94bfc.png",
+    "static/media/virgo.png": "/Zodiac/static/media/virgo.8ded1952.png",
+    "static/media/App.css": "/Zodiac/static/media/zodiac.4bd2a44f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.658e7118.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.41038122.chunk.js",
+    "static/css/main.26302377.chunk.css",
+    "static/js/main.ef4cd47a.chunk.js"
+  ]
+}
